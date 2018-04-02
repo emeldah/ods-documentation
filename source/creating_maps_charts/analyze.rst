@@ -10,10 +10,17 @@ It is usually made available by the domain administrator in the top menu link un
 .. note:: You can also build charts with `Analyze` tab on a dataset page, but these are limited to the current dataset. With the Chart Builder you have much more possibilities, combining different sources from your domain and from the OpenDataSoft network.
 
 
+Interface organization
+----------------------
+The configuration interface is splitted in two tabs.
+The first one, ``Global configuration``, contains parameters that affects the chart as a whole like the configuration of the X axis or the merge of all Y axis.
+The second one, ``Series configuration``, is where new series can be defined and configured.
+
+
 First layer
 -----------
 
-Click on ``Add a dataset to this layer`` to start importing data to your chart.
+Click on ``Add a dataset to this chart`` to start importing data to your chart.
 
 The list of available datasets is displayed: you can search or browse by category to find your datasets.
 As usual you can preview and filter a dataset before importing it.
@@ -101,6 +108,8 @@ As for the second layer, configure a more explicit label name for the legend: "G
 
 Let's finish with a few last details to polish the Chart appearance
 
+Global parameters that affect the whole chart like the X axis global precision or label size can be found in the ``Global configuration`` tab. This also where the Y axis can be merged if needed.
+
 - Set ``Global Precision`` to `Year` instead of `Month` so that the legend reflects the data precision.
 
 - Delete `WTI Spot Price` serie (click on the X cross) and set the X-axis to a Year precision instead of Month
@@ -116,6 +125,9 @@ Here are the resulting parameters:
 And the final result of the chart:
 
 .. image:: layers-final.png
+
+**Other options**
+On category graphs, colors can be defined per category for a better understanding
 
 Other charts examples
 ---------------------
