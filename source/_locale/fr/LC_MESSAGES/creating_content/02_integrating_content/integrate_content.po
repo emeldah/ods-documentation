@@ -1,15 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016, OpenDataSoft
+# Copyright (C) 2018, OpenDataSoft
 # This file is distributed under the same license as the OpenDataSoft Documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Jérémy Morel, 2018
+# Trad_FR1 <datawords.translator.fr1@gmail.com>, 2018
+# Rev_FR1 <datawords.proofread.fr1@gmail.com>, 2018
+# Super Traducteur <thibaut.dupre+shared@opendatasoft.com>, 2018
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OpenDataSoft Documentation 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-12 15:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2018-11-09 11:35+0100\n"
+"PO-Revision-Date: 2018-06-27 09:15+0000\n"
 "Last-Translator: Super Traducteur <thibaut.dupre+shared@opendatasoft.com>, 2018\n"
 "Language-Team: French (https://www.transifex.com/opendatasoft/teams/57849/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -191,15 +197,15 @@ msgstr ""
 "revanche pas être utilisées sur des sites tiers car elles sont intimement "
 "liées à la plateforme."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:76
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:77
 msgid "Widgets list"
 msgstr "Liste des widgets"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:79
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:80
 msgid "odsAggregation"
 msgstr "odsAggregation"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:81
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:82
 msgid ""
 "This widget exposes the results of an aggregation function on a dataset "
 "field. Can be used for example to expose the average temperature of a "
@@ -212,7 +218,7 @@ msgstr ""
 "présenté sous la forme d'une nouvelle variable qui peut être utilisée dans "
 "un autre widget ou directement intégrée dans votre code HTML."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:82
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:83
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsAggregation>`__"
@@ -220,11 +226,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsAggregation>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:85
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:86
 msgid "odsAnalysis"
 msgstr "odsAnalysis"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:87
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:88
 msgid ""
 "This widget exposes the results of multiple aggregation based on an axis. "
 "Like for a chart, for each value of the X axis, it computes aggregation "
@@ -237,7 +243,7 @@ msgstr ""
 " avec le ngRepeat d'AngularJS pour créer facilement un tableau de résultats "
 "d'analyses."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:88
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:89
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsAnalysis>`__"
@@ -245,7 +251,7 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsAnalysis>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:89
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:90
 msgid ""
 "Linked to `odsAnalysisSerie <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsAnalysisSerie>`_"
@@ -253,11 +259,11 @@ msgstr ""
 "En lien avec `odsAnalysisSerie <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsAnalysisSerie>`_"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:92
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:93
 msgid "odsBreezometer"
 msgstr "odsBreezometer"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:94
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:95
 msgid ""
 "Integrates a Breezometer \"widget\" using the widget key provided by "
 "Breezometer"
@@ -265,7 +271,7 @@ msgstr ""
 "Intègre un \"widget\" Breezometer grâce à la clé de widget fournie par "
 "Breezometer."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:95
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:96
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsBreezometer>`__"
@@ -273,11 +279,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsBreezometer>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:98
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:99
 msgid "odsCalendar"
 msgstr "odsCalendar"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:100
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:101
 msgid ""
 "This widget can take any dataset containing at least two datetime fields and"
 " a text field and use it to display a calendar. It can load at most 1000 "
@@ -287,7 +293,7 @@ msgstr ""
 " contenant au moins deux champs de type datetime et un champ de texte. Il "
 "peut charger au maximum 1 000 événements (enregistrements à la fois."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:101
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:102
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsCalendar>`__"
@@ -295,11 +301,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsCalendar>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:105
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:106
 msgid "odsCatalogContext"
 msgstr "odsCatalogContext"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:107
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:108
 msgid ""
 "A \"catalog context\" represents the entire catalog (list) of datasets from "
 "a given domain, and a set of parameters used to query this catalog."
@@ -308,7 +314,7 @@ msgstr ""
 "jeux de données d'un domaine et un ensemble de paramètres servant à "
 "interroger ce catalogue."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:108
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:109
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsCatalogContext>`__"
@@ -316,11 +322,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsCatalogContext>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:111
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:112
 msgid "odsChart"
 msgstr "odsChart"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:113
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:114
 msgid ""
 "This widget is the base widget allowing to display charts from OpenDataSoft "
 "datasets. A Chart is defined by one or more series that get there data from "
@@ -333,7 +339,7 @@ msgstr ""
 "contexte de jeu de données, avec un type de graphe défini et de multiples "
 "paramètres permettant d'affiner l’apparence du graphe."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:114
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:115
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsChart>`__"
@@ -341,7 +347,7 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsChart>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:115
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:116
 msgid ""
 "Linked to `odsChartQuery <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsChartQuery>`_ and `odsChartSerie"
@@ -353,11 +359,11 @@ msgstr ""
 "<http://opendatasoft.github.io/ods-widgets/docs/#/api/ods-"
 "widgets.directive:odsChartSerie>`_"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:118
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:119
 msgid "odsClearAllFilters"
 msgstr "odsClearAllFilters"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:120
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:121
 msgid ""
 "This widget displays a button which will clear all active filters in the "
 "given context."
@@ -365,7 +371,7 @@ msgstr ""
 "Ce widget affiche un bouton permettant d'effacer tous les filtres actifs "
 "dans le contexte donné."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:121
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:122
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsClearAllFilters>`__"
@@ -373,11 +379,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsClearAllFilters>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:125
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:126
 msgid "odsDatasetCard"
 msgstr "odsDatasetCard"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:127
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:128
 msgid ""
 "If you wrap this directive around an element or a set of element, it will "
 "display an expandable card above it to show the title and description of the"
@@ -390,7 +396,7 @@ msgstr ""
 "portail sur lequel le jeu de données est exposé et la licence rattachée aux "
 "données."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:128
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:129
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsDatasetCard>`__"
@@ -398,11 +404,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsDatasetCard>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:132
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:133
 msgid "odsDatasetContext"
 msgstr "odsDatasetContext"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:134
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:135
 msgid ""
 "A \"dataset context\" represents a dataset, and a set of parameters used to "
 "query its data. A context can be used by one or more directives, so that "
@@ -413,7 +419,7 @@ msgstr ""
 "être utilisé par une ou plusieurs directives afin qu'elles puissent partager"
 " des informations (les paramètres des requêtes le plus souvent)."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:135
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:136
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsDatasetContext>`__"
@@ -421,18 +427,18 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsDatasetContext>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:139
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:140
 msgid "odsDatetime"
 msgstr "odsDatetime"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:141
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:142
 msgid ""
 "Get the ISO local datetime and store it into a variable (into the scope)."
 msgstr ""
 "Récupère l'heure et la date ISO locales et les stocke dans une variable "
 "(dans le scope)."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:142
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:143
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsDatetime>`__"
@@ -440,17 +446,17 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsDatetime>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:146
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:147
 msgid "odsDisqus"
 msgstr "odsDisqus"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:148
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:149
 msgid "This widget shows a Disqus panel where users can comment the page."
 msgstr ""
 "Ce widget affiche un volet Disqus pour permettre aux utilisateurs de "
 "commenter la page."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:149
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:150
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsDisqus>`__"
@@ -458,15 +464,15 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsDisqus>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:150
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:151
 msgid "More information about `Configuring disqus` /!\\ to be written"
 msgstr "Plus d'informations sur la `Configuration de disqus` /!\\ à écrire."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:153
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:154
 msgid "odsDomainStatistics"
 msgstr "odsDomainStatistics"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:155
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:156
 msgid ""
 "This widget enumerates statistic values for a given catalog and injects them"
 " as variables in the context."
@@ -474,7 +480,7 @@ msgstr ""
 "Ce widget énumère les valeurs statistiques d'un catalogue donné et les "
 "injecte dans le contexte sous forme de variables."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:156
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:157
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsDomainStatistics>`__"
@@ -482,11 +488,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsDomainStatistics>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:160
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:161
 msgid "odsFacetResults"
 msgstr "odsFacetResults"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:162
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:163
 msgid ""
 "This widget fetches the results of enumerating the values (\"categories\") "
 "of a facet, and exposes it in a variable available in the scope. It can be "
@@ -497,7 +503,7 @@ msgstr ""
 "peut être utilisé avec le ngRepeat d'AngularJS pour créer facilement une "
 "liste de résultats."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:163
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:164
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsFacetResults>`__"
@@ -505,11 +511,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsFacetResults>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:167
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:168
 msgid "odsFacets"
 msgstr "odsFacets"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:169
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:170
 msgid ""
 "This widget displays filters (facets) for a dataset or a domain's catalog of"
 " datasets, allowing the users to dynamically \"refine\" on one or more "
@@ -520,7 +526,7 @@ msgstr ""
 "\"d'affiner\" leurs recherches de manière dynamique en fonction d'une ou de "
 "plusieurs catégories du contexte."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:170
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:171
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsFacets>`__"
@@ -528,11 +534,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsFacets>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:174
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:175
 msgid "odsFilterSummary"
 msgstr "odsFilterSummary"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:176
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:177
 msgid ""
 "This widget displays a summary of all the active filters on a context: text "
 "search, refinements..."
@@ -540,7 +546,7 @@ msgstr ""
 "Ce widget affiche un résumé de tous les filtres actifs sur un contexte : "
 "recherche de texte, affinage..."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:177
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:178
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsFilterSummary>`__"
@@ -548,11 +554,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsFilterSummary>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:181
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:182
 msgid "odsGauge"
 msgstr "odsGauge"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:183
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:184
 msgid ""
 "This widget displays a gauge in one of the two following modes: circle or "
 "horizontal bar. The widget relies on CSS3 and SVG and as a result is "
@@ -562,7 +568,7 @@ msgstr ""
 "horizontale. Il repose sur CSS3 et SVG, ce qui le rend totalement "
 "personnalisable en CSS."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:184
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:185
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsGauge>`__"
@@ -570,11 +576,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsGauge>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:188
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:189
 msgid "odsGeoSearch"
 msgstr "odsGeoSearch"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:190
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:191
 msgid ""
 "This widget displays a mini map with a draw-rectangle tool that can be used "
 "to search through a catalog."
@@ -583,7 +589,7 @@ msgstr ""
 "rectangles qui peut être utilisé pour faire des recherches dans le "
 "catalogue."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:191
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:192
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsGeoSearch>`__"
@@ -591,11 +597,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsGeoSearch>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:195
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:196
 msgid "odsGeotooltip"
 msgstr "odsGeotooltip"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:197
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:198
 msgid ""
 "This directive, when used to surround a text, displays a tooltip showing a "
 "point and/or a shape in a map."
@@ -603,7 +609,7 @@ msgstr ""
 "Lorsqu'elle encadre un texte, cette directive affiche une infobulle "
 "concernant un point ou une forme sur la carte."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:198
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:199
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsGeotooltip>`__"
@@ -611,17 +617,17 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsGeotooltip>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:202
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:203
 msgid "odsHubspotForm"
 msgstr "odsHubspotForm"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:204
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:205
 msgid "Integrates a Hubspot form given a portal ID and the form ID."
 msgstr ""
 "Intègre un formulaire Hubspot à partir de l'ID du portail et de l'ID du "
 "formulaire."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:205
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:206
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsHubspotForm>`__"
@@ -629,15 +635,15 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsHubspotForm>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:206
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:207
 msgid "More information about `Hubspot <http://www.hubspot.com/>`_"
 msgstr "Plus d'informations à propos de `Hubspot <http://www.hubspot.com/>`_"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:210
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:211
 msgid "odsInfiniteScrollResults"
 msgstr "odsInfiniteScrollResults"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:212
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:213
 msgid ""
 "This widget displays the results of a query inside an infinite scroll list. "
 "It uses the HTML template inside the widget tag, and repeats it for each "
@@ -647,7 +653,7 @@ msgstr ""
 "infini. Il utilise le modèle HTML dans le tag du widget et le répète pour "
 "chaque résultat."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:213
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:214
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsInfiniteScrollResults>`__"
@@ -655,11 +661,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsInfiniteScrollResults>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:217
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:218
 msgid "odsLastDatasetsFeed"
 msgstr "odsLastDatasetsFeed"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:219
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:220
 msgid ""
 "This widget displays the last datasets of a catalog (default is last 5), "
 "based on the modified metadata."
@@ -667,7 +673,7 @@ msgstr ""
 "Ce widget affiche les derniers jeux de données d'un catalogue (par défaut "
 "les 5 derniers), en fonction des modifications des métadonnées."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:220
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:221
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsLastDatasetsFeed>`__"
@@ -675,17 +681,17 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsLastDatasetsFeed>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:224
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:225
 msgid "odsLastReusesFeed"
 msgstr "odsLastReusesFeed"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:226
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:227
 msgid "This widget displays last reuses published on a domain (5 by default)."
 msgstr ""
 "Ce widget affiche les dernières réutilisations publiées sur un domaine (les "
 "5 dernières par défaut)."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:227
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:228
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsLastReusesFeed>`__"
@@ -693,11 +699,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsLastReusesFeed>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:231
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:232
 msgid "odsMap"
 msgstr "odsMap"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:233
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:234
 msgid ""
 "This widget allows you to build a map visualization and show data using "
 "various modes of display using layers. Each layer is based on a Dataset "
@@ -710,7 +716,7 @@ msgstr ""
 "(clusters...) et plusieurs propriétés définissant l'affichage, comme par "
 "exemple les couleurs."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:234
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:235
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsMap>`__"
@@ -718,11 +724,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsMap>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:238
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:239
 msgid "odsMediaGallery"
 msgstr "odsMediaGallery"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:240
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:241
 msgid ""
 "This widget displays an image gallery of a dataset containing media with "
 "thumbnails (images, pdf files...) with infinite scroll."
@@ -730,7 +736,7 @@ msgstr ""
 "Ce widget affiche une galerie d'images à défilement infini, pour un jeu de "
 "données dont les contenus disposent d'aperçus (images, fichiers pdf...)."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:241
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:242
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsMediaGallery>`__"
@@ -738,11 +744,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsMediaGallery>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:245
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:246
 msgid "odsMostPopularDatasets"
 msgstr "odsMostPopularDatasets"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:247
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:248
 msgid ""
 "This widget displays the top datasets of a catalog (default is the 5 top "
 "datasets), based on the number of downloads."
@@ -750,7 +756,7 @@ msgstr ""
 "Ce widget affiche les jeux de données les plus populaires d'un catalogue "
 "(les 5 premiers par défaut), en fonction du nombre de téléchargements."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:248
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:249
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsMostPopularDatasets>`__"
@@ -758,15 +764,15 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsMostPopularDatasets>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:252
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:253
 msgid "odsMostUsedThemes"
 msgstr "odsMostUsedThemes"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:254
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:255
 msgid "This widget displays the 5 most used themes."
 msgstr "Ce widget affiche les 5 thèmes les plus utilisés."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:255
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:256
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsMostUsedThemes>`__"
@@ -774,11 +780,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsMostUsedThemes>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:259
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:260
 msgid "odsPicto"
 msgstr "odsPicto"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:261
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:262
 msgid ""
 "This widget displays a \"picto\" specified by a url and force a fill color "
 "on it. This element can be styled (height, width...), especially if the "
@@ -788,7 +794,7 @@ msgstr ""
 "couleur. Cet élément peut être stylisé (hauteur, largeur...), surtout si le "
 "pictogramme est vectoriel (SVG)."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:262
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:263
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsPicto>`__"
@@ -796,15 +802,15 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsPicto>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:266
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:267
 msgid "odsPlumeAirQuality"
 msgstr "odsPlumeAirQuality"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:268
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:269
 msgid "Integrates a Plume Air Embed using a city name."
 msgstr "Affiche une intégration Plume Air pour une ville donnée."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:269
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:270
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsPlumeAirQuality>`__"
@@ -812,20 +818,20 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsPlumeAirQuality>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:270
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:271
 msgid "More information about `Plume air <https://www.plumelabs.com/en/>`_"
 msgstr ""
 "Plus d'informations à propos de `Plume Air <https://www.plumelabs.com/>`_"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:274
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:275
 msgid "odsRecordImage"
 msgstr "odsRecordImage"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:276
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:277
 msgid "Displays an image from a record."
 msgstr "Affiche une image à partir d'un enregistrement."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:277
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:278
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsRecordImage>`__"
@@ -833,11 +839,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsRecordImage>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:281
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:282
 msgid "odsRedirectIfNotLoggedIn"
 msgstr "odsRedirectIfNotLoggedIn"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:283
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:284
 msgid ""
 "This widget forces a redirect to the login page of the domain if the user is"
 " not logged in."
@@ -845,7 +851,7 @@ msgstr ""
 "Ce widget force une redirection vers la page de connexion du domaine si "
 "l'utilisateur n'est pas connecté."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:284
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:285
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsRedirectIfNotLoggedIn>`__"
@@ -853,11 +859,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsRedirectIfNotLoggedIn>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:288
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:289
 msgid "odsResultEnumerator"
 msgstr "odsResultEnumerator"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:290
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:291
 msgid ""
 "This widget enumerates the results of a search (records for a Dataset "
 "Context, datasets for a Catalog Context) and repeats the template (the "
@@ -868,7 +874,7 @@ msgstr ""
 "et reproduit le modèle (le contenu de l'élément de la directive) pour chacun"
 " d'entre eux."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:291
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:292
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsResultEnumerator>`__"
@@ -876,11 +882,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsResultEnumerator>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:295
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:296
 msgid "odsResults"
 msgstr "odsResults"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:297
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:298
 msgid ""
 "This widget exposes the results of a search (as an array) in a variable "
 "available in the scope. It can be used with AngularJS's ngRepeat to simply "
@@ -890,7 +896,7 @@ msgstr ""
 "une variable disponible dans le scope. Il peut être utilisé avec le ngRepeat"
 " d'AngularJS pour créer facilement une liste de résultats."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:298
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:299
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsResults>`__"
@@ -898,11 +904,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsResults>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:302
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:303
 msgid "odsReuses"
 msgstr "odsReuses"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:304
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:305
 msgid ""
 "This widget displays all reuses published on a domain, in a infinite list of"
 " large boxes that presents them in a clear display. The lists show the more "
@@ -912,7 +918,7 @@ msgstr ""
 " liste infinie de grands cadres qui les présentent clairement. La liste "
 "affiche les réutilisations les plus récentes en premier."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:305
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:306
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsReuses>`__"
@@ -920,11 +926,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsReuses>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:309
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:310
 msgid "odsSearchbox"
 msgstr "odsSearchbox"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:311
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:312
 msgid ""
 "This widget displays a wide searchbox that redirects the search on the "
 "Explore homepage of the domain."
@@ -932,7 +938,7 @@ msgstr ""
 "Ce widget affiche un grand champ de recherche qui redirige la recherche sur "
 "la page d'accueil Explorer du domaine."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:312
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:313
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsSearchbox>`__"
@@ -940,11 +946,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsSearchbox>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:316
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:317
 msgid "odsSocialButtons"
 msgstr "odsSocialButtons"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:318
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:319
 msgid ""
 "This widget displays a share button that on hover will reveal social media "
 "sharing buttons."
@@ -952,7 +958,7 @@ msgstr ""
 "Ce widget affiche un bouton de partage qui révèle les boutons de partage des"
 " différents réseaux lorsque vous passez la souris dessus."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:319
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:320
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsSocialButtons>`__"
@@ -960,11 +966,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsSocialButtons>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:323
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:324
 msgid "odsSpinner"
 msgstr "odsSpinner"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:325
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:326
 msgid ""
 "This widget displays the custom OpenDataSoft spinner. Its size and color "
 "match the current font's."
@@ -972,7 +978,7 @@ msgstr ""
 "Ce widget affiche le bouton fléché OpenDataSoft personnalisé. Sa taille et "
 "sa couleur s'adaptent à la police actuelle."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:326
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:327
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsSpinner>`__"
@@ -980,11 +986,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsSpinner>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:330
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:331
 msgid "odsTable"
 msgstr "odsTable"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:332
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:333
 msgid ""
 "This widget displays a table view of a dataset, with infinite scroll and an "
 "ability to sort columns (depending on the types of the column)."
@@ -993,7 +999,7 @@ msgstr ""
 "infini et la possibilité de trier les colonnes (en fonction du type des "
 "colonnes)."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:333
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:334
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsTable>`__"
@@ -1001,11 +1007,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsTable>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:337
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:338
 msgid "odsTagCloud"
 msgstr "odsTagCloud"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:339
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:340
 msgid ""
 "This widget displays a \"tag cloud\" of the values available in a facet "
 "(either the facet of a dataset, or a facet from the dataset catalog)."
@@ -1014,7 +1020,7 @@ msgstr ""
 "facette (celle d'un jeu de données ou celle d'un catalogue de jeux de "
 "données). "
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:340
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:341
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsTagCloud>`__"
@@ -1022,11 +1028,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsTagCloud>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:344
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:345
 msgid "odsTextSearch"
 msgstr "odsTextSearch"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:346
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:347
 msgid ""
 "This widget displays a search box that can be used to do a full-text search "
 "on a context."
@@ -1034,7 +1040,7 @@ msgstr ""
 "Ce widget affiche un champ de recherche qui peut être utilisé pour des "
 "recherches en texte intégral dans un contexte."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:347
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:348
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsTextSearch>`__"
@@ -1042,11 +1048,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsTextSearch>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:351
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:352
 msgid "odsThemeBoxes"
 msgstr "odsThemeBoxes"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:353
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:354
 msgid ""
 "This widget enumerates the themes available on the domain, by showing their "
 "pictos and the number of datasets they contain."
@@ -1054,7 +1060,7 @@ msgstr ""
 "Ce widget énumère les thèmes disponibles sur le domaine en affichant leurs "
 "pictogrammes et le nombre de jeux de données qu'ils comprennent."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:354
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:355
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsThemeBoxes>`__"
@@ -1062,15 +1068,15 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsThemeBoxes>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:358
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:359
 msgid "odsThemePicto"
 msgstr "odsThemePicto"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:360
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:361
 msgid "This widget displays the \"picto\" of a theme."
 msgstr "Ce widget affiche le \"pictogramme\" d'un thème."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:361
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:362
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsThemePicto>`__"
@@ -1078,11 +1084,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsThemePicto>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:365
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:366
 msgid "odsTimerange"
 msgstr "odsTimerange"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:367
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:368
 msgid ""
 "This widget displays two fields to select the two bounds of a date and time "
 "range."
@@ -1090,7 +1096,7 @@ msgstr ""
 "Ce widget affiche deux champs pour sélectionner les limites des plages "
 "d'heures et de dates."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:368
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:369
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsTimerange>`__"
@@ -1098,11 +1104,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsTimerange>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:372
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:373
 msgid "odsTimescale"
 msgstr "odsTimescale"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:374
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:375
 msgid ""
 "Displays a control to select either: last day, last week, last month or last"
 " year"
@@ -1110,7 +1116,7 @@ msgstr ""
 "Affiche une option pour choisir entre : moins de 24 h, moins d'une semaine, "
 "moins d'un mois ou moins d'un an."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:375
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:376
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsTimescale>`__"
@@ -1118,15 +1124,15 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsTimescale>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:379
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:380
 msgid "odsTopPublishers"
 msgstr "odsTopPublishers"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:381
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:382
 msgid "This widget displays the 5 top publishers"
 msgstr "Ce widget affiche les 5 meilleurs producteurs."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:382
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:383
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsTopPublishers>`__"
@@ -1134,15 +1140,15 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsTopPublishers>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:386
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:387
 msgid "odsTwitterTimeline"
 msgstr "odsTwitterTimeline"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:388
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:389
 msgid "Integrates a Twitter \"widget\" using the widget ID provided by Twitter."
 msgstr "Intègre un \"widget\" Twitter grâce à l'ID du widget fourni par Twitter."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:389
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:390
 msgid ""
 "`Full documentation <http://opendatasoft.github.io/ods-widgets/docs/#/api"
 "/ods-widgets.directive:odsTwitterTimeline>`__"
@@ -1150,11 +1156,11 @@ msgstr ""
 "`Documentation complète <http://opendatasoft.github.io/ods-"
 "widgets/docs/#/api/ods-widgets.directive:odsTwitterTimeline>`__"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:393
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:394
 msgid "Filters"
 msgstr "Filtres"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:398
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:399
 msgid ""
 "In addition to AngularJS filters, OpenDataSoft widgets library includes some"
 " additional that can be used in custom pages :"
@@ -1163,7 +1169,7 @@ msgstr ""
 "comprend quelques autres qui peuvent être utilisés dans les pages "
 "personnalisées :"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:396
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:397
 msgid ""
 "capitalize, fieldsFilter, firstValue, imageify, imageUrl, isAfter, isBefore,"
 " isDefined, isEmpty, join, keys, moment, momentadd, momentdiff, nofollow, "
@@ -1175,11 +1181,11 @@ msgstr ""
 "normalize, numKeys, shortSummary, slugify, split, stringify, themeColor, "
 "themeSlug, thumbnailUrl, timesince, toObject, truncate, values, videoify"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:401
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:402
 msgid "Creating dashboards"
 msgstr "Créer des tableaux de bord"
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:403
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:404
 msgid ""
 "A step by step tutorial to create a simple dashboard with data "
 "visualization, filters, and counters."
@@ -1187,6 +1193,6 @@ msgstr ""
 "Un tutoriel pas à pas pour créer un tableau de bord simple avec des "
 "visualisations de données, des filtres et des compteurs."
 
-#: ../../source/creating_content/02_integrating_content/integrate_content.rst:412
+#: ../../source/creating_content/02_integrating_content/integrate_content.rst:413
 msgid "Going further with advanced widgets"
 msgstr "Aller plus loin avec les widgets avancés"

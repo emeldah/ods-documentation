@@ -1,16 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016, OpenDataSoft
+# Copyright (C) 2018, OpenDataSoft
 # This file is distributed under the same license as the OpenDataSoft Documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# traducteur_DE2 <datawords.translator.de2@gmail.com>, 2018
+# Proofread_DE1 <datawords.proofread.de1@gmail.com>, 2018
+# traducteur_DE1 <datawords.translator.de1@gmail.com>, 2018
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OpenDataSoft Documentation 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-12 15:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Proofread_DE1 <datawords.proofread.de1@gmail.com>, 2018\n"
+"POT-Creation-Date: 2018-11-09 11:35+0100\n"
+"PO-Revision-Date: 2018-06-27 09:13+0000\n"
+"Last-Translator: traducteur_DE1 <datawords.translator.de1@gmail.com>, 2018\n"
 "Language-Team: German (https://www.transifex.com/opendatasoft/teams/57849/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -47,7 +52,7 @@ msgstr "durch das Einfügen von Daten und Hochladen auf die Plattform"
 
 #: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:10
 #: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:65
-#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:93
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:90
 msgid "Important"
 msgstr "Wichtig"
 
@@ -77,7 +82,7 @@ msgstr ""
 #: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:21
 #: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:56
 #: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:79
-#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:127
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:124
 msgid "In Catalog > Datasets, click on the **New dataset** button."
 msgstr ""
 "Klicken Sie unter Katalog > Datensätze auf den Button **Neuer Datensatz**."
@@ -85,7 +90,7 @@ msgstr ""
 #: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:22
 #: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:57
 #: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:80
-#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:128
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:125
 msgid "Click on the **Add a source** button."
 msgstr "Klicken Sie auf den Button **Eine Quelle hinzufügen**."
 
@@ -118,7 +123,7 @@ msgstr ""
 
 #: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:32
 #: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:48
-#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:98
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:95
 msgid "Note"
 msgstr "Hinweis"
 
@@ -248,7 +253,29 @@ msgstr "Geben Sie in das Feld **Eine URL eingeben** die URL einer API ein."
 msgid "OpenDataSoft natively supports the following APIs:"
 msgstr "OpenDataSoft unterstützt nativ die folgenden APIs:"
 
-#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:96
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:85
+msgid ""
+":doc:`ArcGIS</publishing_data/04_configuring_a_source/connectors/arcgis>`"
+msgstr ""
+":doc:`ArcGIS</publishing_data/04_configuring_a_source/connectors/arcgis>`"
+
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:86
+msgid ""
+":doc:`JCDecaux</publishing_data/04_configuring_a_source/connectors/jcdecaux>`"
+msgstr ""
+":doc:`JCDecaux</publishing_data/04_configuring_a_source/connectors/jcdecaux>`"
+
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:87
+msgid ""
+":doc:`Salesforce</publishing_data/04_configuring_a_source/connectors/salesforce>`"
+msgstr ""
+":doc:`Salesforce</publishing_data/04_configuring_a_source/connectors/salesforce>`"
+
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:88
+msgid ":doc:`WFS</publishing_data/04_configuring_a_source/connectors/wfs>`"
+msgstr ":doc:`WFS</publishing_data/04_configuring_a_source/connectors/wfs>`"
+
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:93
 msgid ""
 "Contact your local support team to get these connectors activated on your "
 "domain."
@@ -256,7 +283,7 @@ msgstr ""
 "Kontaktieren Sie Ihr örtliches Support-Team, um diese Konnektoren auf Ihrer "
 "Domain zu aktivieren."
 
-#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:101
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:98
 msgid ""
 "OpenDataSoft can also develop and integrate customer specific Web APIs. "
 "OpenDataSoft connectivity toolkit makes it possible to develop performant "
@@ -267,15 +294,15 @@ msgstr ""
 "leistungsstarke und sichere Konnektoren entwickelt werden, die eine "
 "inkrementelle Datenverarbeitung ermöglichen."
 
-#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:110
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:107
 msgid "Available options when configuring a connector"
 msgstr "Verfügbare Optionen zum Konfigurieren eines Konnektors"
 
-#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:123
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:120
 msgid "Pasting data"
 msgstr "Daten einfügen"
 
-#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:125
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:122
 msgid ""
 "This method consists in pasting data in a CSV format. This method is most "
 "useful for quick tests."
@@ -283,12 +310,33 @@ msgstr ""
 "Bei dieser Methode werden Daten im CSV-Format eingefügt. Sie ist für eine "
 "schnelle Überprüfung sinnvoll."
 
-#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:129
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:126
 msgid "In the **Paste data** area, write or paste data in a CSV format."
 msgstr ""
 "Nutzen Sie den Bereich **Daten einfügen** dazu, um Daten im CSV-Format zu "
 "schreiben oder einzufügen."
 
-#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:130
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:127
 msgid "Click on the **Send data** button."
 msgstr "Klicken Sie auf den Button **Daten senden**."
+
+#: ../../source/publishing_data/01_creating_a_dataset/sourcing_data.rst:130
+msgid ""
+"Once a new dataset is created, the platform automatically displays an "
+"edition interface for that dataset. It is accessible for any user with the "
+"right permissions (either \"Create dataset\" or \"Edit dataset\"). This "
+"edition interface allows to process the data, configure the datasets and its"
+" visualizations, as well as manage the publishing of the dataset. However, "
+"the first thing that should be done after creating a new dataset is to "
+"configure its source, to make sure the data is perfectly read and understood"
+" by the platform."
+msgstr ""
+"Sobald ein neuer Datensatz erstellt wurde, zeigt die Plattform automatisch "
+"eine Bearbeitungsoberfläche für diesen Datensatz an. Sie ist für jeden "
+"Benutzer mit entsprechenden Berechtigungen zugänglich (entweder \"Datensatz "
+"erstellen\" oder \"Datensatz bearbeiten\"). Diese Bearbeitungsoberfläche "
+"ermöglicht die Verarbeitung der Daten, die Konfiguration der Datensätze und "
+"ihrer Visualisierungen sowie die Verwaltung der Datensatzveröffentlichung. "
+"Nach der Erstellung eines neuen Datensatzes sollte jedoch zunächst seine "
+"Quelle konfiguriert und sichergestellt werden, dass die Daten von der "
+"Plattform einwandfrei gelesen und verstanden werden."

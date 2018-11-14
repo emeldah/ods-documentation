@@ -3,13 +3,16 @@
 # This file is distributed under the same license as the OpenDataSoft Documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Translator_Data_ES1 <datawords.translator.es1@gmail.com>, 2018
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OpenDataSoft Documentation 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-11 11:39+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2018-11-09 11:35+0100\n"
+"PO-Revision-Date: 2018-06-27 09:15+0000\n"
 "Last-Translator: Translator_Data_ES1 <datawords.translator.es1@gmail.com>, 2018\n"
 "Language-Team: Spanish (https://www.transifex.com/opendatasoft/teams/57849/es/)\n"
 "MIME-Version: 1.0\n"
@@ -35,11 +38,11 @@ msgstr ""
 
 #: ../../source/creating_content/tutorials/advanced_dashboard/advanced_dashboard.rst:7
 msgid ""
-"Please have a look to the `widget list "
-"</editing_pages/integrate_content.html#widgets-list>`_ for more information."
+"Please have a look to the :ref:`widget list <widgets-list>` for more "
+"information."
 msgstr ""
-"Consulte la `lista de widgets </editing_pages/integrate_content.html"
-"#widgets-list>`_ para obtener más información."
+"Consulte la :ref:`lista de widgets <widgets-list>` para obtener más "
+"información."
 
 #: ../../source/creating_content/tutorials/advanced_dashboard/advanced_dashboard.rst:11
 msgid "Pick up a dataset"
@@ -67,6 +70,11 @@ msgid ""
 "dataset to your domain (New dataset, Add a source from OpenDataSoft network,"
 " pick the dataset, save, publish)"
 msgstr ""
+"ID de conjunto de datos: ``regularite-mensuelle-tgv`` Puede buscarlo en "
+"`data.opendatasoft.com <https://data.opendatasoft.com>`_. A continuación, "
+"añada este conjunto de datos al dominio: Conjunto de datos nuevo, Añadir un "
+"conjunto de datos de la red OpenDataSoft, seleccione el conjunto de datos, "
+"guárdelo y publíquelo."
 
 #: ../../source/creating_content/tutorials/advanced_dashboard/advanced_dashboard.rst:22
 msgid "Create some KPIs"

@@ -3,14 +3,20 @@
 # This file is distributed under the same license as the OpenDataSoft Documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Thibaut Dupré <thibaut.dupre@opendatasoft.com>, 2018
+# traducteur_DE2 <datawords.translator.de2@gmail.com>, 2018
+# Proofread_DE1 <datawords.proofread.de1@gmail.com>, 2018
+# traducteur_DE1 <datawords.translator.de1@gmail.com>, 2018
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OpenDataSoft Documentation 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-11 11:39+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Proofread_DE1 <datawords.proofread.de1@gmail.com>, 2018\n"
+"POT-Creation-Date: 2018-11-09 11:35+0100\n"
+"PO-Revision-Date: 2018-06-27 09:15+0000\n"
+"Last-Translator: traducteur_DE1 <datawords.translator.de1@gmail.com>, 2018\n"
 "Language-Team: German (https://www.transifex.com/opendatasoft/teams/57849/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,12 +40,11 @@ msgstr ""
 
 #: ../../source/creating_content/tutorials/advanced_dashboard/advanced_dashboard.rst:7
 msgid ""
-"Please have a look to the `widget list "
-"</editing_pages/integrate_content.html#widgets-list>`_ for more information."
+"Please have a look to the :ref:`widget list <widgets-list>` for more "
+"information."
 msgstr ""
-"Bitte sehen Sie sich die  `Widget-Liste "
-"</editing_pages/integrate_content.html#widgets-list>`_ an, wenn Sie weitere "
-"Informationen wünschen."
+"Bitte sehen Sie sich die :ref:`Widget-List <widgets-list>` an, wenn Sie "
+"weitere Informationen benötigen."
 
 #: ../../source/creating_content/tutorials/advanced_dashboard/advanced_dashboard.rst:11
 msgid "Pick up a dataset"
@@ -67,6 +72,11 @@ msgid ""
 "dataset to your domain (New dataset, Add a source from OpenDataSoft network,"
 " pick the dataset, save, publish)"
 msgstr ""
+"Datensatz-ID: ``regularite-mensuelle-tgv`` Sie können danach suchen auf "
+"`data.opendatasoft.com <https://data.opendatasoft.com>`_ Fügen Sie dann "
+"diesen Datensatz Ihrer Domain hinzu (Neuer Datensatz, Quelle aus dem "
+"OpenDataSoft Netzwerk hinzufügen, Datensatz aufnehmen, speichern, "
+"veröffentlichen)"
 
 #: ../../source/creating_content/tutorials/advanced_dashboard/advanced_dashboard.rst:22
 msgid "Create some KPIs"

@@ -1,15 +1,18 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016, OpenDataSoft
+# Copyright (C) 2018, OpenDataSoft
 # This file is distributed under the same license as the OpenDataSoft Documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Trad_FR1 <datawords.translator.fr1@gmail.com>, 2018
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OpenDataSoft Documentation 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-12 15:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2018-11-09 11:35+0100\n"
+"PO-Revision-Date: 2018-06-27 09:11+0000\n"
 "Last-Translator: Trad_FR1 <datawords.translator.fr1@gmail.com>, 2018\n"
 "Language-Team: French (https://www.transifex.com/opendatasoft/teams/57849/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -39,10 +42,11 @@ msgstr ""
 #: ../../source/publishing_data/05_processing_data/processing_data.rst:6
 msgid ""
 "In the OpenDataSoft platform, all processing operations are done in the "
-"Processing tab."
+"Processing tab of the edition interface of each dataset."
 msgstr ""
 "Dans la plateforme OpenDataSoft, toutes les opérations de traitement sont "
-"effectuées dans l'onglet Traitement."
+"effectuées dans l'onglet Traitement de l'interface d'édition de chaque jeu "
+"de données."
 
 #: ../../source/publishing_data/05_processing_data/processing_data.rst:11
 msgid ""

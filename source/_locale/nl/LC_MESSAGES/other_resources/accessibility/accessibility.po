@@ -1,15 +1,18 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016, OpenDataSoft
+# Copyright (C) 2018, OpenDataSoft
 # This file is distributed under the same license as the OpenDataSoft Documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+# Translator_NL1 <datawords.translator.nl1@gmail.com>, 2018
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OpenDataSoft Documentation 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-12 15:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2018-11-09 11:35+0100\n"
+"PO-Revision-Date: 2018-06-27 09:10+0000\n"
 "Last-Translator: Translator_NL1 <datawords.translator.nl1@gmail.com>, 2018\n"
 "Language-Team: Dutch (https://www.transifex.com/opendatasoft/teams/57849/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -22,6 +25,18 @@ msgstr ""
 msgid "Accessibility"
 msgstr "Toegankelijkheid"
 
+#: ../../source/other_resources/accessibility/accessibility.rst:5
+msgid "Referentials"
+msgstr "Referentials"
+
+#: ../../source/other_resources/accessibility/accessibility.rst:7
+msgid ""
+"OpenDataSoft uses two referentials' guidelines at **AA** levels for "
+"Accessibility:"
+msgstr ""
+"OpenDataSoft gebruik de richtsnoeren van twee referentiesystemen met "
+"**AA**-niveau voor Toegankelijkheid:"
+
 #: ../../source/other_resources/accessibility/accessibility.rst:9
 msgid "|WCAG2|"
 msgstr "|WCAG2|"
@@ -29,6 +44,42 @@ msgstr "|WCAG2|"
 #: ../../source/other_resources/accessibility/accessibility.rst:10
 msgid "|RGAA|"
 msgstr "|RGAA|"
+
+#: ../../source/other_resources/accessibility/accessibility.rst:13
+msgid "Americans with Disabilities Act (ADA)"
+msgstr "Americans with Disabilities Act (ADA)"
+
+#: ../../source/other_resources/accessibility/accessibility.rst:15
+msgid ""
+"We also follow |ADA| Standards for Accessible Design in order to improve "
+"access to information for people with disabilities."
+msgstr ""
+"We volgen ook de |ADA| Standards for Accessible Design om de toegang tot "
+"informatie voor personen met een handicap te verbeteren."
+
+#: ../../source/other_resources/accessibility/accessibility.rst:17
+msgid ""
+"Since the |IAADA| and doesn't define the regulations, organizations are "
+"encouraged to use the **WCAG 2.0 level AA guidelines**."
+msgstr ""
+"Aangezien de |IAADA| de reguleringen niet definieert, worden organisaties "
+"aangemoedigd om de **WCAG 2.0 level AA guidelines** te gebruiken."
+
+#: ../../source/other_resources/accessibility/accessibility.rst:19
+msgid ""
+"Therefore, the OpenDataSoft public facing content is **ADA compliant because"
+" it follows WCAG 2.0 - AA**."
+msgstr ""
+"Daarom is het publiek van OpenDataSoft dat te maken krijgt met content **ADA"
+" compliant omdat het WCAG 2.0 - AA** volgt."
+
+#: ../../source/other_resources/accessibility/accessibility.rst:21
+msgid "We also have a |VPAT| accessible on demand."
+msgstr "We hebben ook een |VPAT| die op verzoek toegankelijk is."
+
+#: ../../source/other_resources/accessibility/accessibility.rst:24
+msgid "What does OpenDataSoft do for accessibility?"
+msgstr "Wat doet OpenDataSoft op het vlak van toegankelijkheid?"
 
 #: ../../source/other_resources/accessibility/accessibility.rst:26
 msgid ""
@@ -75,6 +126,10 @@ msgstr ""
 msgid "The modal windows have appropriate focus and focus cycling"
 msgstr "De modale vensters hebben de juiste focus en focus cycling"
 
+#: ../../source/other_resources/accessibility/accessibility.rst:36
+msgid "Reporting an issue"
+msgstr "Een probleem melden"
+
 #: ../../source/other_resources/accessibility/accessibility.rst:38
 msgid ""
 "Despite our best efforts, if you encounter an accessibility issue on the "
@@ -120,57 +175,3 @@ msgid "We will do our best to fix those issues in the forthcoming releases."
 msgstr ""
 "We zullen ons uiterste best doen om deze problemen in de volgende releases "
 "op te lossen."
-
-#: ../../source/other_resources/accessibility/accessibility.rst:5
-msgid "Referentials"
-msgstr ""
-
-#: ../../source/other_resources/accessibility/accessibility.rst:7
-#, fuzzy
-msgid ""
-"OpenDataSoft uses two referentials' guidelines at **AA** levels for "
-"Accessibility:"
-msgstr ""
-"OpenDataSoft gebruikt de richtlijnen van twee referentiesystemen op AA-"
-"niveaus voor toegankelijkheid:"
-
-#: ../../source/other_resources/accessibility/accessibility.rst:13
-msgid "Americans with Disabilities Act (ADA)"
-msgstr ""
-
-#: ../../source/other_resources/accessibility/accessibility.rst:15
-msgid ""
-"We also follow |ADA| Standards for Accessible Design in order to improve "
-"access to information for people with disabilities."
-msgstr ""
-
-#: ../../source/other_resources/accessibility/accessibility.rst:17
-msgid ""
-"Since the |IAADA| and doesn't define the regulations, organizations are "
-"encouraged to use the **WCAG 2.0 level AA guidelines**."
-msgstr ""
-
-#: ../../source/other_resources/accessibility/accessibility.rst:19
-msgid ""
-"Therefore, the OpenDataSoft public facing content is **ADA compliant because"
-" it follows WCAG 2.0 - AA**."
-msgstr ""
-
-#: ../../source/other_resources/accessibility/accessibility.rst:21
-msgid "We also have a |VPAT| accessible on demand."
-msgstr ""
-
-#: ../../source/other_resources/accessibility/accessibility.rst:24
-msgid "What does OpenDataSoft do for accessibility?"
-msgstr ""
-
-#: ../../source/other_resources/accessibility/accessibility.rst:36
-msgid "Reporting an issue"
-msgstr ""
-
-#~ msgid ""
-#~ "OpenDataSoft uses two referentials' guidelines at AA levels for "
-#~ "Accessibility:"
-#~ msgstr ""
-#~ "OpenDataSoft gebruikt de richtlijnen van twee referentiesystemen op AA-"
-#~ "niveaus voor toegankelijkheid:"
