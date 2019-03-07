@@ -250,4 +250,3 @@ pdf:
 
 pdf-%:
 	make -e SPHINXOPTS="-D language='$*'" pdf
-
